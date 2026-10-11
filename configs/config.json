@@ -1,0 +1,15 @@
+{
+  "dataset_path": "data/sample/pilot_synthetic.csv",
+  "output_path": "results/benchmark_results.json",
+  "max_score": 10,
+  "minimum_rows": 2,
+  "expected_conditions": ["ai", "conventional"],
+  "max_time_minutes": 30,
+  "max_missing_rate": 0.0,
+  "min_score": 0,
+  "test_delay_days": 7,
+  "primary_metric": "mean_paired_normalized_learning_gain_difference",
+  "secondary_metrics": ["delayed_score", "gain_per_minute", "time_on_task_minutes"],
+  "random_seed_for_future_allocation": 42,
+  "notes": "Synthetic sample validates software only; not a human-study outcome."
+}

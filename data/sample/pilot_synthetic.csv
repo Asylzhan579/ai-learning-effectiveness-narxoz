@@ -1,0 +1,9 @@
+participant_id,module_id,order,condition,pre_score,post_score,delayed_score,time_minutes,delay_days
+P001,A,1,ai,3,8,7,15,7
+P001,B,2,conventional,4,6,5,20,7
+P002,A,2,conventional,2,6,5,24,7
+P002,B,1,ai,3,7,7,17,7
+P003,A,1,ai,4,8,7,18,7
+P003,B,2,conventional,3,7,6,22,7
+P004,A,2,conventional,4,7,6,22,7
+P004,B,1,ai,2,7,6,19,7
