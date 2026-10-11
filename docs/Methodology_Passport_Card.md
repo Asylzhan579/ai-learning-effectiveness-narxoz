@@ -3,9 +3,9 @@
 ## 1. Project information
 
 **Research title:** Effectiveness of Generative AI Tools for Improving University Students' Understanding of Academic Material: A Controlled Study at Narxoz University  
-**Authors:** [ADD FULL AUTHOR NAME(S)]  
+**Authors:** [Mukhambet Asylzhan ,Muhtarhan Olzhas]  
 **University:** Narxoz University  
-**Public GitHub repository:** [INSERT LINK AFTER CREATING REPOSITORY]
+**Public GitHub repository:** [https://github.com/Asylzhan579/ai-learning-effectiveness-narxoz]
 
 ## 2. Research type and justification
 

@@ -2,7 +2,7 @@
 
 **Authors:** [Mukhambet Asylzhan , Muhtarhan Olzhas]  
 **Institution:** Narxoz University, Kazakhstan  
-**Repository:** [INSERT PUBLIC GITHUB LINK]
+**Repository:** [https://github.com/Asylzhan579/ai-learning-effectiveness-narxoz]
 
 ## Overview and Research Question
 
