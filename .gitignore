@@ -23,5 +23,9 @@ __pycache__/
 *.zip
 results/*
 !results/.gitkeep
-data/raw/
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/test_run.jsonl
 data/private/
+*transcript*
+*consent*
