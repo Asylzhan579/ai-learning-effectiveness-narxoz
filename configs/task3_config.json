@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "n_boot": 10000,
+  "n_perm": 20000,
+  "ci_level": 0.95,
+  "max_score": 10,
+  "max_study_minutes": 30,
+  "required_delay_days": 7,
+  "max_error_rate": 0.05,
+  "raw_path": "data/raw/test_run.jsonl",
+  "summary_path": "data/processed/metrics_summary.csv",
+  "effects_path": "data/processed/paired_effects.csv",
+  "guardrail_path": "data/processed/guardrail_report.json",
+  "excluded_path": "data/processed/excluded_records.csv"
+}
