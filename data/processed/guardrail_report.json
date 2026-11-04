@@ -1,0 +1,15 @@
+{
+  "n_records_checked": 40,
+  "n_invalid": 1,
+  "error_rate": 0.025,
+  "error_rate_by_condition": {
+    "AI": 0.05,
+    "Conventional": 0.0
+  },
+  "threshold": 0.05,
+  "guardrail_ok": true,
+  "n_raw_records": 80,
+  "n_warmup_discarded": 40,
+  "n_ceiling_excluded": 0,
+  "n_pairs_analysed": 19
+}

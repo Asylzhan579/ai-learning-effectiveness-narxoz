@@ -1,0 +1,2 @@
+record_id,participant_id,phase,condition,module,period,sequence,pre_score,post_score,delayed_score,study_time_min,delayed_interval_days,error_reason
+67,P17,evaluation,AI,A,1,AI-A>Conv-B,6.0,11.0,9.0,23.2,7.0,post_score_out_of_range

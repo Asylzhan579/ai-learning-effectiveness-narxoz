@@ -1,0 +1,9 @@
+metric,label,condition,n,mean,sd,median,p25,p75,p95,p99,mean_ci_low,mean_ci_high,median_ci_low,median_ci_high
+norm_gain,Normalized immediate gain (unitless),AI,19,0.6346,0.0953,0.625,0.5774,0.6667,0.8357,0.8529,0.5943,0.6775,0.5833,0.6667
+norm_gain,Normalized immediate gain (unitless),Conventional,19,0.4842,0.1186,0.5,0.4333,0.5774,0.6364,0.6364,0.4309,0.533,0.4667,0.5714
+delayed_score,"Day-7 delayed score (points, 0-10)",AI,19,6.6053,1.0617,7.0,5.75,7.5,8.0,8.0,6.1316,7.0526,6.0,7.5
+delayed_score,"Day-7 delayed score (points, 0-10)",Conventional,19,5.6316,1.1284,5.5,5.0,6.25,7.5,7.5,5.1316,6.1316,5.0,6.0
+efficiency,Learning efficiency (points/min),AI,19,0.1677,0.0458,0.1653,0.1314,0.2019,0.2426,0.2522,0.1485,0.1882,0.1394,0.1916
+efficiency,Learning efficiency (points/min),Conventional,19,0.114,0.0326,0.122,0.0942,0.1332,0.1609,0.1666,0.0992,0.1279,0.0969,0.1296
+study_time_min,Study time (min),AI,19,24.1579,1.7357,24.2,23.1,25.45,26.36,27.512,23.4158,24.9264,23.1,25.1
+study_time_min,Study time (min),Conventional,19,26.6474,1.3306,27.0,25.7,27.65,28.15,28.51,26.0421,27.2105,25.8,27.4

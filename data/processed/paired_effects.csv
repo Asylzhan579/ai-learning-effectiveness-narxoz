@@ -1,0 +1,5 @@
+metric,label,n_pairs,mean_diff,diff_ci_low,diff_ci_high,median_diff,sd_diff,cohens_dz,alternative,t_stat,p_ttest,p_permutation,p_wilcoxon
+norm_gain,Normalized immediate gain (unitless),19,0.1504,0.0832,0.2191,0.0833,0.1557,0.9661,greater,4.2111,0.0003,0.0001,0.0008
+delayed_score,"Day-7 delayed score (points, 0-10)",19,0.9737,0.3947,1.5526,1.0,1.2961,0.7513,greater,3.2746,0.0021,0.0032,0.0048
+efficiency,Learning efficiency (points/min),19,0.0537,0.0316,0.0749,0.0549,0.0496,1.0812,greater,4.7129,0.0001,0.0001,0.0001
+study_time_min,Study time (min),19,-2.4895,-3.4895,-1.4211,-2.7,2.3919,-1.0408,two-sided,-4.5368,0.0003,0.0005,0.0019
